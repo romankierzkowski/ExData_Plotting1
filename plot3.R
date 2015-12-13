@@ -34,7 +34,8 @@ legend(
   col = c("black", "red", "blue"),
   legend = c("Sub_metering_1", "Sub_metering_2", "Sub_metering_3"),
   lty=c(1,1,1),
-  lwd=c(2.5,2.5)
+  lwd=c(2.5,2.5),
+  cex=0.65
 )
 
 dev.copy(png, "plot3.png")

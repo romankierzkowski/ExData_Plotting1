@@ -47,7 +47,7 @@ with(data, {
     legend = c("Sub_metering_1", "Sub_metering_2", "Sub_metering_3"),
     lty=c(1,1,1),
     bty = 'n',
-    cex = 0.7
+    cex = 0.67
   )
   
   # PLOT 3:
